@@ -1,0 +1,299 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header{
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    align-items: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+nav ul li a:hover{
+color:  #FF7A50;
+transition: 0.5s;
+}
+
+.btn{
+    background: white;
+    width: 120px;
+    height: 50px;
+    border: 1px solid #FF7A50;
+    border-radius: 5px;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+
+}
+
+.btn:hover{
+    background: #FF7A50;
+    color: white;
+    transition: 0.5s;
+}
+
+.btnn{
+    background: white;
+    width: 163px;
+    height: 50px;
+    border: 1px solid #FF7A50;
+    border-radius: 5px;
+    margin: 30px 340px 0 0;
+
+}
+
+.btnn:hover{
+    background: #FF7A50;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.box{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+h1{
+    font-family: Rubik;
+font-size: 66px;
+font-weight: 600;
+line-height: 78.21px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+p{
+    font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+text-align: center;
+padding: 50px;
+}
+
+
+.aa{
+    padding: 150px 0;
+}
+
+
+.btnnn{
+    background: white;
+    width: 163px;
+    height: 50px;
+    border: 1px solid #FF7A50;
+    border-radius: 30px 30px 0  30px;
+    margin: 130px 340px 0 0;
+
+
+}
+
+.btnnn:hover{
+    background: #FF7A50;
+    color: white;
+    transition: 0.5s;
+}
+
+body{
+    background: linear-gradient(0deg, #F9FAFF, #F9FAFF);
+
+}
+
+.a{
+width: 361px;
+height: 417px;
+background-color: white;
+border-radius: 60px 0 0 0;
+}
+
+h3{
+    font-family: Rubik;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+padding: 15px;
+}
+
+
+
+.btnnnn{
+   
+        background: white;
+        width: 100px;
+        height: 30px;
+        border: 1px solid #FF7A50;
+        border-radius: 30px 30px 0  30px;
+        margin: 0px 0px 0 70px;
+}  
+    
+.btnnnn:hover{
+    background: #FF7A50;
+    color: white;
+    transition: 0.5s;
+}
+  
+
+.boxx{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+}
+
+
+
+
+
+h2{
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}    
+
+
+.boxxx{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+}
+
+
+main{
+    gap: 10000px;
+}
+
+
+
+.futer{
+    width: 1170px;
+height: 312px;
+background: #FF7A50;
+border-radius: 15px;
+
+justify-content: center;
+}
+
+h4{
+    font-family: Rubik;
+font-size: 40px;
+font-weight: 500;
+line-height: 47.4px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F9FAFF;
+padding: 40px 0 10px 0;
+}
+
+input{
+    display: flex;
+justify-content: center;
+text-align: start;
+
+}
+
+
+.subscribe-section {
+    width: 1170px;
+    height: 312px;
+    background-color: #ff7f50;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .subscribe-section h2 {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  input {
+    width: 838px;
+    height: 78px;
+    padding: 0 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+  }
+  
+  .bt{
+    width: 191px;
+    height: 58px;
+    background-color: white;
+    
+
+  }
+
+
+  .bt{
+    background: white;
+    width: 120px;
+    height: 50px;
+    border: 1px solid #FF7A50;
+    border-radius: 15px;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+    margin-left: -130px;
+
+}
+
+.bt:hover{
+    background: #FF7A50;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.bb{
+    font-family: Rubik;
+font-size: 40px;
+font-weight: 500;
+line-height: 47.4px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
